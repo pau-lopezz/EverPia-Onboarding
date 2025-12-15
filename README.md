@@ -29,3 +29,5 @@ Cadascú de vosaltres ha de una secció al final del README.md del vostre reposi
 Guia de l’activitat: 
 
 [https://github.com/SMX2n/Projecte04-GuiaGitHub](https://github.com/SMX2n/Projecte04-GuiaGitHub)
+
+[GrupA07](GrupA07.md)
